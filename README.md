@@ -1,4 +1,4 @@
-# iac-sre
+# cloud-platform-iac
 
 Infrastructure as Code repository for SRE operations, platform provisioning, observability, networking, and cloud automation.
 
